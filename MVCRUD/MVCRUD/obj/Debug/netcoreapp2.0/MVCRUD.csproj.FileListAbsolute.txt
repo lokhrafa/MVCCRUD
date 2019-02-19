@@ -1,0 +1,11 @@
+C:\Users\pc119\source\repos\MVCRUD\MVCRUD\bin\Debug\netcoreapp2.0\MVCRUD.deps.json
+C:\Users\pc119\source\repos\MVCRUD\MVCRUD\bin\Debug\netcoreapp2.0\MVCRUD.runtimeconfig.json
+C:\Users\pc119\source\repos\MVCRUD\MVCRUD\bin\Debug\netcoreapp2.0\MVCRUD.runtimeconfig.dev.json
+C:\Users\pc119\source\repos\MVCRUD\MVCRUD\bin\Debug\netcoreapp2.0\MVCRUD.dll
+C:\Users\pc119\source\repos\MVCRUD\MVCRUD\obj\Debug\netcoreapp2.0\MVCRUD.csprojResolveAssemblyReference.cache
+C:\Users\pc119\source\repos\MVCRUD\MVCRUD\obj\Debug\netcoreapp2.0\MVCRUD.csproj.CoreCompileInputs.cache
+C:\Users\pc119\source\repos\MVCRUD\MVCRUD\obj\Debug\netcoreapp2.0\MVCRUD.AssemblyInfoInputs.cache
+C:\Users\pc119\source\repos\MVCRUD\MVCRUD\obj\Debug\netcoreapp2.0\MVCRUD.AssemblyInfo.cs
+C:\Users\pc119\source\repos\MVCRUD\MVCRUD\bin\Debug\netcoreapp2.0\MVCRUD.pdb
+C:\Users\pc119\source\repos\MVCRUD\MVCRUD\obj\Debug\netcoreapp2.0\MVCRUD.dll
+C:\Users\pc119\source\repos\MVCRUD\MVCRUD\obj\Debug\netcoreapp2.0\MVCRUD.pdb
